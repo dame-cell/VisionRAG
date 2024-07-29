@@ -33,5 +33,4 @@ For more information about this innovative approach:
 
 ## 🚀 Getting Started
 
-(You can add installation instructions, usage examples, etc. here)
 
