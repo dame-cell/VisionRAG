@@ -3,7 +3,7 @@
 VisionRAG is an innovative implementation of MULTI-MODALITY-RAG, leveraging the novel approach introduced in [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449).
 
 <p align="center">
-  <img src="colpali.jpeg" alt="ColPali Architecture" width="80%">
+  <img src="VisionRAG/images/colpali.jpeg" alt="ColPali Architecture" width="80%">
 </p>
 
 ## 🔍 Overview
