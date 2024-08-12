@@ -18,6 +18,14 @@ ColPali offers a groundbreaking method for document retrieval using vision langu
 - Streamlined retrieval and ranking process
 - Built on ColPali 2's efficient embedding technique
 
+### How fast is the indexing? 
+We tested the speed of the indexing on affordable GPUs , we pass the embeddings into GPUs 
+| GPU          | Batch Size | Speed (s/iteration) |
+|--------------|-------------|---------------------|
+| NVIDIA A10g  | 4           | 2.67                |
+| NVIDIA l4    | 4           | 3.6s                |
+| NVIDIA t4    | 4           | 4.55                |
+
 ## 📚 Resources
 
 For more information about this innovative approach:
