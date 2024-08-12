@@ -52,5 +52,7 @@ For more information about this innovative approach:
 2. Demonstrate the efficiency and versatility of this approach 
 
 ## 🚀 Getting Started
+1) The notebook provids  a step by step on how to use colpali to index and how to then pass the image to a Vision-Language model  to generate answers
 
+2) The notebook also shows how to generate the heatmaps to check what the model sees?
 
