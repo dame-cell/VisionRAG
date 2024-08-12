@@ -26,6 +26,14 @@ We tested the speed of the indexing on affordable GPUs , we pass the embeddings 
 | NVIDIA l4    | 4           | 3.6s                |
 | NVIDIA t4    | 4           | 4.55                |
 
+### Interpretability 
+| Query          | Images |  
+|--------------|-------------|
+| Scaled  |<p align="center"><img src="images/hm_token_1.png" width="800px"></p>|
+| Dot    |<p align="center"><img src="images/hm_token_3.png" width="800px"></p> |
+| what is the model architecture and what is adaptive visual encoding?  |<p align="center"><img src="images/hm_token_map_32.png" width="800px"></p> |
+| what is the model architecture and what is adaptive visual encoding?  |<p align="center"><img src="images/hm_token_41.png" width="800px"></p> |
+
 ## 📚 Resources
 
 For more information about this innovative approach:
