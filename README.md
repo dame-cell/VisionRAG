@@ -24,19 +24,15 @@ ColPali offers a groundbreaking method for document retrieval using vision langu
 - Challenge: Traditional document retrieval systems often rely on Optical Character Recognition (OCR) for extracting text from images, which can be error-prone and require extensive preprocessing.
 - Problem: OCR may struggle with complex layouts, low-quality images, or non-standard fonts, leading to inaccurate text extraction.
 
-2) Handling Multi-Modal Content
-- Challenge: Integrating different types of content (text, images, tables) in a coherent manner was often complex and required specialized techniques.
-- Problem: Traditional systems might struggle to maintain context and relevance when dealing with diverse data types.
-
-3) Efficiency and Speed
+2) Efficiency and Speed
 - Challenge: Many systems had inefficiencies in processing and indexing documents, leading to slower retrieval times.
 - Problem: High computational costs and slow indexing could limit the scalability and usability of the system.
 
-4) Scalability
+3) Scalability
 - Challenge: Scaling document retrieval systems to handle large volumes of data and complex document structures often posed significant challenges.
 - Problem: Systems could become unwieldy and less effective as the dataset grew in size and complexity.
 
-Interpretability
+4) Interpretability
 - Challenge: Understanding and visualizing what parts of a document the model is focusing on or interpreting could be difficult.
 - Problem: Lack of transparency in how models made decisions made it challenging to trust and refine the system.
 
