@@ -41,6 +41,7 @@ ColPali offers a groundbreaking method for document retrieval using vision langu
 1) Direct Embedding of Document Screenshots
 - Solution: ColPali eliminates the need for OCR by directly embedding document screenshots into the model. This simplifies the preprocessing pipeline and improves accuracy by leveraging end-to-end learning.
 
+
 2) Enhanced Efficiency and Speed
 - Solution: By leveraging efficient embedding techniques and optimized indexing on GPUs, ColPali improves the speed and efficiency of document retrieval.
 - Benefit: Accelerates indexing and retrieval processes, making the system more scalable and responsive.
